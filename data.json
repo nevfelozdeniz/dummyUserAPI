@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Nevfel Gökberk Özdeniz",
+      "title": "Frontend Developer",
+      "phone": "+905396774753",
+      "email": "nevfelo@gmail.com",
+      "website": "https://github.com/nevfelozdeniz",
+      "address": "Çorlu / Tekirdağ"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Graphic Designer",
+      "phone": "+1987654321",
+      "email": "jane.smith@example.com",
+      "website": "www.janesmithdesigns.com",
+      "address": "456 Elm Avenue, Townsville, State, 67890"
+    }
+  ]
